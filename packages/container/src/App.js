@@ -4,7 +4,7 @@ import MarketingApp from './components/MarketingApp';
 export default()=>{
     return(
         <>
-        <h1>Hello there this is from inside the container </h1>
+        <h1>Hello ya'll, supp boois? </h1>
         <MarketingApp/>
         </>
     ) ;
